@@ -6,9 +6,12 @@
 
 取材自以下資源
 --------
+Android Development Tutorial - Save Bitmap to SQLite                                   
+https://www.youtube.com/watch?v=po0DLkuwkC4
+     
 android-sqlite-asset-helper                                   
 https://github.com/jgilfelt/android-sqlite-asset-helper
-                              
+                          
 預覽
 --------
 <p align="left">
